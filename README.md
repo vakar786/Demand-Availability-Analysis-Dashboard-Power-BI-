@@ -1,5 +1,4 @@
-# Demand-Availability-Analysis-Dashboard-Power-BI-
-Power BI dashboard analyzing product demand vs availability, with supply shortage, loss, profit and average availability. Data sourced from MySQL.
+
 # Demand & Availability Analysis Dashboard (Power BI)
 
 An interactive Power BI dashboard that analyzes product demand against availability and measures the resulting **supply shortage, loss and profit**. Data is stored in **MySQL** and imported into Power BI for cleaning, modeling and visualization.
